@@ -19,7 +19,7 @@
 
 #Dates & Deliverables:
 #End of January: Have code worked out to reliably collect wired data using arduino and calculate position within 95% accuracy
-#End of February: Wireless streaming of data to arduino using rfid & begin brainstorming circuitry
+#End of February: Wireless streaming of data to arduino using rfid & layout requirements & begin circuitry
 #End of March: Create dedicated ASIC to handle on board calculations and wireless transmission
 #End of April: Iterate on March circuit design and make smaller
 #End of May: Have an MVP completed
