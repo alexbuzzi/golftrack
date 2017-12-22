@@ -379,3 +379,16 @@ void loop() {
         digitalWrite(LED_PIN, blinkState);
     }
 }
+
+//define functions
+
+float dist(aaReal.x) {
+
+float dx=0.0f;
+float vx=0.0f;
+for (int i=1; i<n; i++)
+ {
+   vx+=(acceleration_x[i-1] + acceleration_x[i])/2.0f*dt;
+   dx+=vx*dt;
+ }
+}

@@ -15,6 +15,7 @@
 #  - Could be in collaboration with golf mapped out courses
 
 # - Considerations: Power consumption, cost, size, weight distribution, precession, flight path
+# - IMU help: http://www.starlino.com/imu_guide.html
 
 #Dates & Deliverables:
 #End of January: Have code worked out to reliably collect wired data using arduino and calculate position within 95% accuracy
