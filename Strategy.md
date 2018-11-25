@@ -1,5 +1,5 @@
 # Stratagy #1:
-#  - Detect ball being struck
+#  - Detect ball being struck w/ piezoelectric sensor
 #  - After struck start recording accelerometer data
 #  - Detect ball coming to a stop (accel< some value)
 #  - Send out radio signal from phone to turn on switch
@@ -16,7 +16,7 @@
 
 # - Considerations: Power consumption, cost, size, weight distribution, precession, flight path
 # - IMU help: http://www.starlino.com/imu_guide.html
-# - To get orientation: send information 
+# - To get orientation: send information
 
 #Dates & Deliverables:
 #End of January: Have code worked out to reliably collect wired data using arduino and calculate position within 95% accuracy
