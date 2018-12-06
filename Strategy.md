@@ -24,3 +24,7 @@
 #End of March: Create dedicated ASIC to handle on board calculations and wireless transmission
 #End of April: Iterate on March circuit design and make smaller
 #End of May: Have an MVP completed
+
+#how to work out code:
+#use numpy for quick calculations of incoming data for tracking
+#use pandas for detailed description and statistics of data for users
